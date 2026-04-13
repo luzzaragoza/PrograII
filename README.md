@@ -12,3 +12,5 @@ Analisis de situaciones de pilas donde se ven jerarquias de elementos ( priorida
 Bloque 3:
 Analisis de situaciones con conjuntos, sea la busqueda, agregar o eliminar un elemento dentro de un conjunto o comparar los elementos dentro de varios conjuntos
 
+Bloque 4:
+implementacion de pilas dinamicas (pilas cuyos maximos varian) a travez de nodos.
